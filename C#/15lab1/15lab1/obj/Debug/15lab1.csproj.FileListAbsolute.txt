@@ -1,0 +1,6 @@
+D:\лабы\C#\15lab1\15lab1\bin\Debug\15lab1.exe.config
+D:\лабы\C#\15lab1\15lab1\bin\Debug\15lab1.exe
+D:\лабы\C#\15lab1\15lab1\bin\Debug\15lab1.pdb
+D:\лабы\C#\15lab1\15lab1\obj\Debug\15lab1.csprojAssemblyReference.cache
+D:\лабы\C#\15lab1\15lab1\obj\Debug\15lab1.exe
+D:\лабы\C#\15lab1\15lab1\obj\Debug\15lab1.pdb

@@ -1,0 +1,7 @@
+C:\:347674247168
+D:\:119900835840
+D:\лабы\C#\13lab1
+D:\лабы\C#\13lab1  LENGTH:0  EXTENSION:.txt  FULLNAME:D:\лабы\C#\13lab1\log.txt NAME: log.txt
+18.12.2019 12:36:55
+File Amount
+0

@@ -1,0 +1,6 @@
+D:\лабы\C#\5lab\5lab\obj\Debug\5lab.csprojAssemblyReference.cache
+D:\лабы\C#\5lab\5lab\bin\Debug\5lab.exe.config
+D:\лабы\C#\5lab\5lab\bin\Debug\5lab.exe
+D:\лабы\C#\5lab\5lab\bin\Debug\5lab.pdb
+D:\лабы\C#\5lab\5lab\obj\Debug\5lab.exe
+D:\лабы\C#\5lab\5lab\obj\Debug\5lab.pdb

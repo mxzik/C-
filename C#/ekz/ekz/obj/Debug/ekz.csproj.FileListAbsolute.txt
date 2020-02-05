@@ -1,0 +1,6 @@
+D:\лабы\C#\ekz\ekz\bin\Debug\ekz.exe.config
+D:\лабы\C#\ekz\ekz\bin\Debug\ekz.exe
+D:\лабы\C#\ekz\ekz\bin\Debug\ekz.pdb
+D:\лабы\C#\ekz\ekz\obj\Debug\ekz.csprojAssemblyReference.cache
+D:\лабы\C#\ekz\ekz\obj\Debug\ekz.exe
+D:\лабы\C#\ekz\ekz\obj\Debug\ekz.pdb

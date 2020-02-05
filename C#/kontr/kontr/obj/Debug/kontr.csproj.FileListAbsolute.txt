@@ -1,0 +1,6 @@
+D:\лабы\C#\kontr\kontr\bin\Debug\kontr.exe.config
+D:\лабы\C#\kontr\kontr\bin\Debug\kontr.exe
+D:\лабы\C#\kontr\kontr\bin\Debug\kontr.pdb
+D:\лабы\C#\kontr\kontr\obj\Debug\kontr.csprojAssemblyReference.cache
+D:\лабы\C#\kontr\kontr\obj\Debug\kontr.exe
+D:\лабы\C#\kontr\kontr\obj\Debug\kontr.pdb

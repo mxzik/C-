@@ -1,0 +1,37 @@
+Name: C:\
+Type: Fixed
+File System: NTFS
+Disk space: 550582087680
+Free space: 329107001344
+Mark: 
+Name: D:\
+Type: Fixed
+File System: NTFS
+Disk space: 448491679744
+Free space: 46422937600
+Mark: 
+Time of creation: D:\лабы
+SubDir:
+D:\лабы\12
+D:\лабы\C#
+D:\лабы\gitt
+D:\лабы\jquery
+D:\лабы\kyrsach
+D:\лабы\mailrephp
+D:\лабы\OSI 2
+D:\лабы\virt
+D:\лабы\алоцвм
+D:\лабы\игиг
+D:\лабы\коды и блок схемы, оап
+D:\лабы\ксис
+D:\лабы\кяр
+D:\лабы\Химач
+Time of creation: 05.04.2019 14:22:55
+Amount of SubDirs: 14
+Amount of SubDirs: 2
+
+File name: 1.txt
+Rasshirenie: .txt
+time of creation: 09.11.2019 16:36:17
+Size: 409
+Full path: D:\

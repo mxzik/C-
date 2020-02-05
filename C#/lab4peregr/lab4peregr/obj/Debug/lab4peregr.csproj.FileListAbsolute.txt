@@ -1,0 +1,7 @@
+D:\лабы\C#\lab4peregr\lab4peregr\bin\Debug\lab4peregr.exe.config
+D:\лабы\C#\lab4peregr\lab4peregr\bin\Debug\lab4peregr.exe
+D:\лабы\C#\lab4peregr\lab4peregr\bin\Debug\lab4peregr.pdb
+D:\лабы\C#\lab4peregr\lab4peregr\obj\Debug\lab4peregr.csprojAssemblyReference.cache
+D:\лабы\C#\lab4peregr\lab4peregr\obj\Debug\lab4peregr.csproj.CoreCompileInputs.cache
+D:\лабы\C#\lab4peregr\lab4peregr\obj\Debug\lab4peregr.exe
+D:\лабы\C#\lab4peregr\lab4peregr\obj\Debug\lab4peregr.pdb

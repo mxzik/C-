@@ -1,0 +1,11 @@
+Name: C:\
+Type: Fixed
+File System: NTFS
+Disk space: 550582087680
+Free space: 349891338240
+Mark: 
+Name: D:\
+Type: Fixed
+File System: NTFS
+Disk space: 448491679744
+Free space: 119573843968

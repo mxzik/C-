@@ -1,0 +1,14 @@
+_12lab.Student Method get_Massive
+_12lab.Student Method set_Massive
+_12lab.Student Method get_Item
+_12lab.Student Method set_Item
+_12lab.Student Method NullMassive
+_12lab.Student Method Sum
+System.Object Method Equals
+System.Object Method GetHashCode
+System.Object Method GetType
+System.Object Method ToString
+_12lab.Student Constructor .ctor
+_12lab.Student Property Massive
+_12lab.Student Property Item
+_12lab.Student Field i
